@@ -52,7 +52,7 @@ Tudo isso foi feito usando o BigQuery como plataforma de dados e a plataforma BR
 
 ---
 
-## Tecnologias utilizadas
+## Ferramentas utilizadas
 
 - Google BigQuery
 - SQL
